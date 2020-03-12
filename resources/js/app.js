@@ -15,7 +15,7 @@ import i18n from './lang'; // Internationalization
 // 引入图标
 import '@/icons'; // icon
 // 引入权限控制
-import '@/permission'; // permission control
+import '@/permission';
 // 引入过滤js
 import * as filters from './filters'; // global filters
 
